@@ -1,5 +1,7 @@
-[
-  { "id": "1",
+{
+  "avatars":[
+    
+    { "id": "1",
     "image_url": "https://gravatar.com/avatar/e1083d7f51fc7f603804d50a87a21f8a?s=200&d=robohash&r=pg"
     },
     { "id": "2",
@@ -12,3 +14,4 @@
     "image_url": "https://gravatar.com/avatar/23d313527b03fb265814702ed654babb?s=200&d=robohash&r=pg"
     }
       ]
+}
