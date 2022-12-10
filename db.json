@@ -2,10 +2,10 @@
   "avatars":[
     
     { "id": "Fahad",
-    "image_url": "https://gravatar.com/avatar/3cd8d0cf93de75e084a3e466a8cca5d3?s=400&d=robohash&r=pg"
+    "image_url": "https://gravatar.com/avatar/3cd8d0cf93de75e084a3e466a8cca5d3?s=200&d=robohash&r=pg"
     },
     { "id": "Tej",
-    "image_url": "https://gravatar.com/avatar/cb4f74a8c3dcbe0b0292fa8d7ac12207?s=400&d=robohash&r=pg"
+    "image_url": "https://gravatar.com/avatar/cb4f74a8c3dcbe0b0292fa8d7ac12207?s=200&d=robohash&r=pg"
     },
     { "id": "2CoolforSchool",
     "image_url": "https://gravatar.com/avatar/a7eb1d6a9fc593493d6df974f612ad13?s=200&d=robohash&r=pg"
@@ -20,7 +20,7 @@
     "image_url": "https://gravatar.com/avatar/e1083d7f51fc7f603804d50a87a21f8a?s=200&d=robohash&r=pg"
     },
     { "id": "William",
-    "image_url": "https://gravatar.com/avatar/a6031eb2a3b49485fdb5cf237ae4ec4b?s=400&d=robohash&r=pg"
+    "image_url": "https://gravatar.com/avatar/a6031eb2a3b49485fdb5cf237ae4ec4b?s=200&d=robohash&r=pg"
     },
     { "id": "Better",
     "image_url": "https://gravatar.com/avatar/23d313527b03fb265814702ed654babb?s=200&d=robohash&r=pg"
